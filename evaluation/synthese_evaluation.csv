@@ -1,0 +1,9 @@
+indicateur,valeur
+questions évaluées,12
+réussites en Similarité,12
+note moyenne sur 5,5.00
+pièges refusés,2 sur 2
+latence médiane en secondes,11.7
+latence au 95e centile en secondes,14.8
+jetons par question en moyenne,10738
+modèle de l'agent et du juge,gpt-5-mini
